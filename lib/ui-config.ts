@@ -3,7 +3,6 @@ export const UI_CONFIG = {
   suggestedPrompts: [
     'Help me create functional software requirements',
     'I want to build a life insurance product management system. Help me with the requirements.',
-    'What is the typical weather in Tampa in December?',
   ],
   conversationTitleMaxLength: 30,
   user: {

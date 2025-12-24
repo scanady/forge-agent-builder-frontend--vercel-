@@ -26,6 +26,9 @@ A **modern AI chatbot frontend** built with **Next.js 15** and **React 19**, pow
 - 💾 **Stateful Conversations**: Maintain conversation history with chat management features
 - 🔧 **Tool Support**: AI can invoke external tools through MCP servers
 
+## User Interface
+![Chat Interface Screenshot](docs/assets/chat-interface-screenshot.png)
+
 ## Prerequisites
 
 - Node.js 18.x or later
@@ -162,9 +165,5 @@ npm run lint
 1. Create or configure your MCP server
 2. Update [mcp.config.json](mcp.config.json) with the server details
 3. The tools are automatically discovered and made available to the AI
-
----
-
-**Current Branch**: `master` | **Default Branch**: `main`
 
 For more information, see [docs/MCP_INTEGRATION.md](docs/MCP_INTEGRATION.md).
