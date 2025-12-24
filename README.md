@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A **modern AI chatbot frontend** built with **Next.js** 15 and **React** 19, powered by **Vercel AI SDK** and **OpenAI API**. Seamlessly integrates with Model Context Protocol (MCP) servers for extensible tool support, enabling AI agents to interact with external tools and data sources.
+A **modern AI chatbot frontend** built with **Next.js** 15 and **React** 19, powered by **Vercel AI SDK** and **OpenAI API**. Seamlessly **integrates with Model Context Protocol (MCP) servers** for extensible tool support, enabling AI agents to interact with external tools and data sources.
 
 ## Table of Contents
 
