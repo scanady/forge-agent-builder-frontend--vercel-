@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "requirements-analyst": {
+      "transport": "streamable-http",
+      "url": "http://localhost:8000/mcp",
+      "timeout": 120000,
+      "description": "Requirements Analyst - MCP Server for requirements elicitation and analysis"
+    }
+  },
+  "defaultServer": "requirements-analyst"
+}
