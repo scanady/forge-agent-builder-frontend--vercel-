@@ -4,7 +4,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-15-blue.svg)](https://nextjs.org/)
 
-A modern AI chatbot frontend built with Next.js 15 and React 19, powered by OpenAI GPT-5 Mini and the Vercel AI SDK. Seamlessly integrates with Model Context Protocol (MCP) servers for extensible tool support, enabling AI agents to interact with external tools and data sources.
+A modern AI chatbot frontend built with Next.js 15 and React 19, powered by Vercel AI SDK and OpenAI API. Seamlessly integrates with Model Context Protocol (MCP) servers for extensible tool support, enabling AI agents to interact with external tools and data sources.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ A modern AI chatbot frontend built with Next.js 15 and React 19, powered by Open
 
 ## Features
 
-- 🤖 **AI-Powered Chatbot**: Built with OpenAI GPT-5 Mini for intelligent conversations
+- 🤖 **AI-Powered Chatbot**: Built with AI for intelligent conversations
 - 🔌 **MCP Server Integration**: Connect with Model Context Protocol servers for extensible tool support
 - ⚡ **Real-Time Streaming**: Message responses stream in real-time for responsive UX
 - 🎨 **Modern UI**: Clean, responsive interface built with Tailwind CSS
